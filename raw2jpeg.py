@@ -8,7 +8,8 @@ Created on Fri May 16 23:14:48 2014
 import os
 
 
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET #Module for xml editing
+
 def genSettingsfiles():
     """
     Generates ufraw id files for conversion of raw images to jpeg using ufraw
